@@ -6,7 +6,7 @@ informasi perangkat (hostname, sistem operasi, dan arsitektur).
 ## Cara Menjalankan
 
 pip install -r requirements.txt
-export APP_AUTHOR="Nama Lengkap - NIM"
+export APP_AUTHOR="Syafira Maulida Azzahra - 2505110004"
 export APP_ENV="development"
 python server.py
 
